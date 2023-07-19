@@ -1,0 +1,58 @@
+[
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782082684.jpg",
+        "name":"Adidas grey shoe One",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782097631.jpg",
+        "name":"Adidas grey shoe Two",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782113590.jpeg",
+        "name":"Adidas grey shoe Three",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689781616806.jpg",
+        "name":"Adidas black shoe One",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782031355.jpg",
+        "name":"Adidas black shoe Two",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782062495.jpg",
+        "name":"Adidas black shoe Three",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782172932.jpg",
+        "name":"Adidas Red shoe One",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782187330.jpg",
+        "name":"Adidas Red shoe Two",
+        "price":"10$",
+        "embeddings":[]
+    },
+    {
+        "image":"https://cdn.zdrop.com.bd/cms_files/1689782209342.jpg",
+        "name":"Adidas black shoe Three",
+        "price":"10$",
+        "embeddings":[]
+    }
+     
+     
+]
